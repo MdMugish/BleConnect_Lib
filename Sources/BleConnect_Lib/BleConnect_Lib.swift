@@ -1,3 +1,3 @@
 struct BleConnect_Lib {
-    var text = "Hello, World!"
+    var text = "Hello, Welcome to BleConnect!"
 }
