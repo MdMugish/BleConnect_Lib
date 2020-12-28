@@ -14,10 +14,10 @@ This library is for Bluetooth connectivity on top of Core Bluetooth which suppor
 
 ## Library (Swift Package Manager)
 
-### How to use
+### How to use in your project :
 -> File <br> -> Swift Packages <br> -> Add Package Dependency <br> -> Paste this link "https://github.com/MdMugish/BleConnect_Lib" <br> -> Next <br> -> Done
 <br><br><br>
-After adding this package you can import "ConnectBlu" as shown in this example: https://github.com/MdMugish/BleConnect
+After adding this package you can Import "ConnectBlu" and use it as shown in this example: https://github.com/MdMugish/BleConnect
 
 <br><br>
 
